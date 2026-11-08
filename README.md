@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz
 
-Cybersecurity is what I'm most passionate about, especially the side of it that deals with scams: how they fool people, and how to catch them before anyone loses money or has an account taken over. I like pulling apart something that looks harmless to see what it's really doing, then building a tool that spots it automatically.
+I'm interested in the ever-changing world of cybersecurity. I enjoy problem solving and learning about new threats: how they work, what they do, and how to stop them. My favourite part is taking something that looks harmless, working out what it's really doing, then building a tool that spots it automatically.
 
 ## Why I build these
 
