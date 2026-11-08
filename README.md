@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz
 
-I'm interested in the ever-changing world of cybersecurity. I enjoy problem solving and learning about new threats: how they work, what they do, and how to stop them. My favourite part is taking something that looks harmless, working out what it's really doing, then building a tool that spots it automatically.
+I'm interested in the ever-changing world of cybersecurity. I enjoy problem solving and learning about new threats: how they work and what they do. I'm also active on TryHackMe, where I learn about these threats hands-on and practise countering them myself.
 
 ## Why I build these
 
